@@ -7,6 +7,5 @@ public class ArbiterTribunal extends Struct {
 		ArbiterTribunal.minerals = 200;
 		ArbiterTribunal.gas = 150;
 		ArbiterTribunal.time = 60;
-		
 	}
 }

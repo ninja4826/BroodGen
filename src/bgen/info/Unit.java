@@ -8,6 +8,7 @@ public class Unit {
 	public static int minerals;
 	public static int gas;
 	public static int time;
+	public static boolean two = false;
 	
 	
 	
