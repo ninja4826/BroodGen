@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/s440023/Desktop/watchmaker-framework-0.7.1/watchmaker-framework-0.7.1.jar" sourcepath="D:/Watchmaker-lib"/>
+	<classpathentry kind="lib" path="C:/Users/hueskeruss690/workspace/Watchmaker-rel/watchmaker-framework-0.7.1.jar" sourcepath="C:/Users/hueskeruss690/workspace/Watchmaker-lib/framework/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
