@@ -8,7 +8,7 @@ public class MissileAttacks extends Upgrade {
 
 	public MissileAttacks() {
 		MissileAttacks.produce = new EvolutionChamber();
-		MissileAttacks.reqs = new Object[]{new EvolutionChamber()};
+		MissileAttacks.reqs = new Object[]{};
 		MissileAttacks.minerals = new int[]{100, 50};
 		MissileAttacks.gas = new int[]{100, 50};
 		MissileAttacks.time = new int[]{266, 32};

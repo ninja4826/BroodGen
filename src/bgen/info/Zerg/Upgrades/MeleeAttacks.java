@@ -8,7 +8,7 @@ public class MeleeAttacks extends Upgrade {
 
 	public MeleeAttacks() {
 		MeleeAttacks.produce = new EvolutionChamber();
-		MeleeAttacks.reqs = new Object[]{new EvolutionChamber()};
+		MeleeAttacks.reqs = new Object[]{};
 		MeleeAttacks.minerals = new int[]{100, 50};
 		MeleeAttacks.gas = new int[]{100, 50};
 		MeleeAttacks.time = new int[]{266, 32};

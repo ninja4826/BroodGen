@@ -8,7 +8,7 @@ public class Caraspace extends Upgrade {
 
 	public Caraspace() {
 		Caraspace.produce = new EvolutionChamber();
-		Caraspace.reqs = new Object[]{new EvolutionChamber()};
+		Caraspace.reqs = new Object[]{};
 		Caraspace.minerals = new int[]{100, 75};
 		Caraspace.gas = new int[]{100, 75};
 		Caraspace.time = new int[]{266, 32};
