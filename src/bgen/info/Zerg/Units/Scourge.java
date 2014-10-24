@@ -13,6 +13,5 @@ public class Scourge extends Unit {
 		Scourge.minerals = 25;
 		Scourge.gas = 75;
 		Scourge.time = 30;
-		Scourge.two = true;
 	}
 }

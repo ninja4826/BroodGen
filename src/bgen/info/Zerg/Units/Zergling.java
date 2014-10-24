@@ -13,6 +13,5 @@ public class Zergling extends Unit {
 		Zergling.minerals = 50;
 		Zergling.gas = 0;
 		Zergling.time = 28;
-		Zergling.two = true;
 	}
 }
