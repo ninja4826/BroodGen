@@ -1,6 +1,6 @@
 # BroodGen  
 ## Concept  
-Android based Starcraft: Brood War Build Order generator  
+### Android based Starcraft: Brood War Build Order generator  
 ## Package Explanation  
 * **bgen.info**  
   * _Build.java_  
